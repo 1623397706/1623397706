@@ -1,7 +1,6 @@
 - 👋 Hi, I’m game Development DENG
 - 👀 I’m interested in ...game code learning  
 - 🌱 I’m currently learning ...c++ and mongoDB
-- 💞️ I’m looking to collaborate on ... will ten yearsold be onece codeer best
 - 📫 How to reach me ...you can send Emaill for me 
 
 <!---
