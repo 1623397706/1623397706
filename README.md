@@ -1,6 +1,7 @@
 - 👋 Hi, I’m game Development DENG
 - 🌱 I’m c++,java,golang,js
-- 📫 How to reach me ...you can send Emaill for me 
+- 📫 How to reach me ...you can send Emaill to me
+-
 
 <!---
 1623397706/1623397706 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
