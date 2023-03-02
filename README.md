@@ -1,6 +1,5 @@
 - 👋 Hi, I’m game Development DENG
-- 👀 I’m interested in ...game code learning  
-- 🌱 I’m currently learning ...c++ and mongoDB
+- 🌱 I’m c++,java,golang,js
 - 📫 How to reach me ...you can send Emaill for me 
 
 <!---
